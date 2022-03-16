@@ -1,0 +1,50 @@
+#container{
+	width:  647px;
+	margin: 0px auto;
+	border:  solid black 1px;
+}
+#image{
+	length: 300px;
+	width:  300px;
+	text-align: center;
+	float: right;
+	margin: 10px 50px 0px 0px;
+}
+nav{
+	width: 200px;
+	float: left;
+}
+nav ol li{
+	border:  solid black 1px;
+	text-align:  center;
+	margin:  10px 20px 0px 0px;
+	list-style-type:  none;
+	padding:  10px;
+}
+#main{
+	font-size: 16px;
+	border: dotted;
+	margin: 5px; 
+	padding: 15px;
+	color: purple;
+	width: 600px;
+}
+#main h2, p{
+	border: medium;
+	padding: 5px;
+}
+#main h2{
+	color: black;
+	width: 560px;
+}
+footer ul li{
+	border: solid black 1px;
+	margin-top: 25px;
+}
+body{
+	background-color: #f1ecdf;
+}
+img{
+	width:  300px;
+	height:  200px;
+}
